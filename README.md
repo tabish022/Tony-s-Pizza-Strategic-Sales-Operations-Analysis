@@ -1,0 +1,2 @@
+# Tony-s-Pizza-Strategic-Sales-Operations-Analysis
+🍕 Tony's Pizza: Strategically Transformed 48,000+ transactional rows into actionable growth strategies. Using SQL (Joins, Sub-queries, Window Functions), I identified $817k in revenue, optimized staffing for peak hours (12-1 PM), and pinpointed top-margin menu items. This project bridges the gap between raw data and executive-level sales decisions
